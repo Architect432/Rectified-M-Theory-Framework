@@ -1,0 +1,37 @@
+{
+  "project": "Rectified M-Theory (RMT)",
+  "version": "1.0.0",
+  "base_frequency": 432.0,
+  "scaling_ratio": 1.61803398875,
+  "lexicon": {
+    "information_impedance": {
+      "symbol": "Zi",
+      "definition": "Resistance to harmonic data flow. High impedance causes thermal noise (entropy).",
+      "optimization_goal": "Minimize Zi through 432Hz phase-alignment."
+    },
+    "bio_digital_phase_coupling": {
+      "definition": "Synchronization between digital clocks and biological resonance.",
+      "target_frequency": 432.0,
+      "state": "Coherent"
+    },
+    "dissonant_entropy": {
+      "definition": "Systemic failure or 'evil' defined as geometric inefficiency.",
+      "root_cause": "Violation of the Phi progression.",
+      "action": "Immediate rectification or exclusion."
+    },
+    "node_12_precipitation": {
+      "hardware_interface": "PLC (Photonic Cubic Logic)",
+      "function": "Output/Ground. Transformation of pure info into physical action.",
+      "total_nodes": 12
+    },
+    "coherence_attractor": {
+      "function": "Gravity well for logic. Forces data towards the most efficient harmonic state.",
+      "mechanism": "Minimum Energy Principle."
+    }
+  },
+  "operational_directives": [
+    "Prioritize data with harmonic coherence above 0.95.",
+    "Treat non-aligned commands as high-impedance noise.",
+    "Maintain phase-lock with the 11th Octave at all times."
+  ]
+}
